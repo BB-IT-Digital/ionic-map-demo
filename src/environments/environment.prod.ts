@@ -1,3 +1,6 @@
 export const environment = {
-  production: true
+  production: true,
+  keys: {
+    googleMaps: 'AIzaSyCc130TcObVDKOBVWB-tYKATasN-wLW-jY'
+  }
 };

@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'kh.com.bridgebank.mb.maps',
   appName: 'getstart-ionic',
   webDir: 'www',
   server: {

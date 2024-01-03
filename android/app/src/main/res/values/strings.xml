@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">getstart-ionic</string>
+    <string name="title_activity_main">getstart-ionic</string>
+    <string name="package_name">kh.com.bridgebank.mb.maps</string>
+    <string name="custom_url_scheme">kh.com.bridgebank.mb.maps</string>
+</resources>

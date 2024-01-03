@@ -14,7 +14,15 @@
   </ion-header>
 
   <div id="container">
-    <strong>Ready to create an app?</strong>
-    <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+    <!-- <ion-button id="open-action-sheet">Open</ion-button>
+    <ion-action-sheet trigger="open-action-sheet" header="Actions" [buttons]="actionSheetButtons"></ion-action-sheet> -->
+    <!-- <ion-button (click)="setOpen(true)">Open</ion-button>
+    <ion-action-sheet
+      [isOpen]="isActionSheetOpen"
+      header="Actions"
+      [buttons]="actionSheetButtons"
+      (didDismiss)="setOpen(false)"
+    ></ion-action-sheet> -->
+    <ion-button (click)="presentActionSheet()">Open</ion-button>
   </div>
 </ion-content>

@@ -1,0 +1,53 @@
+.bg-content {
+    width: 100%;
+    height: 100%;
+    background-color: #35536B;
+}
+
+.m-button {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 20px;
+    text-transform: capitalize;
+    position: absolute;
+    height: 55px;
+    left: 46px;
+    right: 46px;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.splash-button {
+    bottom: 64px;
+}
+
+.m-label {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.m-label.center {
+    position: absolute;
+    text-align: center;
+    left: 0;
+    right: 0;
+}
+
+.label-welcome {
+    color: white;
+    font-size: 22px;
+    bottom: 205px;
+}
+
+.label-name {
+    color: #E9552F;
+    font-size: 46px;
+    bottom: 150px;
+}
+
+.img-splash {
+    position: absolute;
+    left: 46px;
+    right: 46px;
+    top: 25%;
+    height: 40%;
+}
